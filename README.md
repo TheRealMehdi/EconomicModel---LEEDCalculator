@@ -2,7 +2,7 @@
 
 An enterprise-grade, data-driven React web application designed for comprehensive urban financial modeling, strategic planning, and sustainable architectural analysis. This interactive dashboard integrates advanced calculation engines for revenue projection, parking logistics, structural costing, and eco-friendly certification metrics (LEED)[cite: 2].
 
-🎨 **Design & Development by:** Mehdi Salmanmanesh
+🎨 **Design & Development by:** Mehdi Salman Manesh
 📌 **Live Demo:** [web-calc-maker.lovable.app](https://web-calc-maker.lovable.app/)
 
 ---
